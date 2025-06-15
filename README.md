@@ -1,4 +1,4 @@
-<h2 align="center">𝐻𝑒𝑙𝑙𝑜! 𝑀𝑦 𝑛𝑎𝑚𝑒 𝑖𝑠 𝐹𝑎𝑡𝑚𝑎 𝑀𝑎𝑚𝑑𝑜𝑢ℎ 𝑎𝑛𝑑 𝐼'𝑚 𝑎 𝐹𝑟𝑜𝑛𝑡 𝐸𝑛𝑑 𝑊𝑒𝑏 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟</h2>
+<h2 align="center">🌸 𝘏𝘦𝘭𝘭o! 𝑀𝑦 𝑛𝑎𝑚𝑒 𝑖𝑠 𝐹𝑎𝑡𝑚𝑎 𝑀𝑎𝑚𝑑𝑜𝑢ℎ 𝑎𝑛𝑑 𝐼'𝑚 𝑎 𝐹𝑟𝑜𝑛𝑡 𝐸𝑛𝑑 𝑊𝑒𝑏 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟</h2>
 
 ###
 
@@ -6,11 +6,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatma2006mamdouh/fatma2006mamdouh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatma2006mamdouh/fatma2006mamdouh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fatma2006mamdouh/fatma2006mamdouh/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatma2006mamdouh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fatma2006mamdouh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
 
 ###
 
@@ -34,6 +33,10 @@
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 <h3 align="left">𝐶𝑜𝑛𝑡𝑎𝑐𝑡 𝑀𝑒</h3>
 
 ###
@@ -49,17 +52,6 @@
   <a href="https://www.facebook.com/profile.php?id=61564429195953" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatma2006mamdouh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=fatma2006mamdouh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
