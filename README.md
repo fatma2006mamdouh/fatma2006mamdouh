@@ -1,48 +1,47 @@
-<div align="center">
+<h1 align="center">Hi, I'm Fatma Mamdouh 👋</h1>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" />
-
-# Hi there 👋 I'm Fatma Mamdouh  
-### A passionate Front-End Developer who loves creating beautiful and user-friendly websites 💻✨
-
-</div>
+<p align="center">
+  Front-End Developer | Passionate about building clean and user-friendly websites 🎨
+</p>
 
 ---
 
-### 👩‍💻 About Me
+### 💻 About Me
 
-- 🎓 Graduated from **SEF Academy**
-- 💻 Skilled in **HTML5, CSS3, JavaScript, AJAX**
-- 🎯 Looking for internships or job opportunities to grow and contribute to real projects
-- 🎨 Passionate about UI/UX design and visual creativity
-- 🚀 Always learning, building, and improving
+- 🎓 Graduate of **SEF Academy**
+- 💡 Skilled in **HTML**, **CSS**, **JavaScript**, and learning **AJAX**
+- 🚀 Focused on creating modern, responsive, and interactive web designs
+- 🎯 Looking for opportunities to grow and contribute to real-world projects
 
 ---
 
 ### 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![AJAX](https://img.shields.io/badge/AJAX-007FFF?style=for-the-badge&logo=web&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-292929?style=for-the-badge&logo=webcomponents.org&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![AJAX](https://img.shields.io/badge/-AJAX-000000?logo=javascript&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visual-studio-code&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 ---
 
-### 📫 Connect with Me
+### 📈 GitHub Stats
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/fatma-mamdouh-b58011343)
-- 💻 [GitHub](https://github.com/fatma2006mamdouh)
-- 💬 [Telegram](https://t.me/fatma_mamdou7)
-- 📧 Email: mamdouhfatma562@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatma2006&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatma2006&layout=compact&theme=tokyonight" width="45%" />
+</p>
 
 ---
 
-<div align="center">
-  
-### 🧠 "The more you learn, the closer you get to your goals."
-  
-⭐️ Thanks for visiting my profile! If you're interested in working together or have any opportunities, feel free to reach out. ⭐️
+### 📫 Contact Me
 
-</div>
+- 💬 Telegram: [@YourUsername](https://t.me/YourUsername)
+- 📂 Portfolio (قريبًا)
+
+---
+
+<p align="center">
+  👩‍💻 Building my front-end journey one line of code at a time.
+</p>
