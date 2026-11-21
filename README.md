@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fatma</h1>
+<h1 align="center">Hi, I'm Fatma Mamdouh</h1>
 
 <p align="center">
   <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+JavaScript+Enthusiast;Student+and+Lifelong+Learner" />
@@ -6,9 +6,9 @@
 
 I'm a student and frontend developer who enjoys turning ideas into clean, responsive, user-friendly interfaces. I work mainly with HTML, CSS, JavaScript, and React, and I also explore data analysis and machine learning with Python.
 
-- Currently studying [your major / university]
-- Currently building [a project you're working on]
-- Currently learning [a technology or skill]
+- Currently studying [CS in Beni Suef University]
+- Currently building [a glasses of You Tube]
+- Currently learning [Java Script]
 - I also enjoy graphic design with Canva and Adobe tools
 - Reach me on [LinkedIn](https://linkedin.com/in/fatma-mamdouh)
 
