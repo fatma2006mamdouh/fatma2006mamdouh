@@ -1,16 +1,20 @@
-# Hi, I'm Fatma 👋
+<h1 align="center">Hi, I'm Fatma</h1>
+
+<p align="center">
+  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+JavaScript+Enthusiast;Student+and+Lifelong+Learner" />
+</p>
 
 I'm a student and frontend developer who enjoys turning ideas into clean, responsive, user-friendly interfaces. I work mainly with HTML, CSS, JavaScript, and React, and I also explore data analysis and machine learning with Python.
 
-- 🎓 Currently studying [your major / university]
-- 🔭 Currently building [a project you're working on]
-- 🌱 Currently learning [a technology or skill]
-- 🎨 I also enjoy graphic design with Canva and Adobe tools
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/fatma-mamdouh)
+- Currently studying [your major / university]
+- Currently building [a project you're working on]
+- Currently learning [a technology or skill]
+- I also enjoy graphic design with Canva and Adobe tools
+- Reach me on [LinkedIn](https://linkedin.com/in/fatma-mamdouh)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -30,19 +34,28 @@ I'm a student and frontend developer who enjoys turning ideas into clean, respon
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Fatma's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatma2006mamdouh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![Fatma's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=fatma2006mamdouh&theme=dark&hide_border=false)
-
 ![Fatma's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatma2006mamdouh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## GitHub Streak
+
+![Fatma's GitHub streak](https://streak-stats.demolab.com/?user=fatma2006mamdouh&theme=radical&hide_border=true&border_radius=10&locale=en)
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatma2006mamdouh/fatma2006mamdouh/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/fatma2006mamdouh/fatma2006mamdouh/output/github-snake.svg">
+</picture>
+
+## GitHub Trophies
 
 ![Fatma's GitHub trophies](https://github-profile-trophy.vercel.app/?username=fatma2006mamdouh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## ✍️ Random Dev Quote
+## Random Dev Quote
 
 ![Random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
