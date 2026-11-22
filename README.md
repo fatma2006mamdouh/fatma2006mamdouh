@@ -51,10 +51,6 @@ I'm a student and frontend developer who enjoys turning ideas into clean, respon
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/fatma2006mamdouh/fatma2006mamdouh/output/github-snake.svg">
 </picture>
 
-## GitHub Trophies
-
-![Fatma's GitHub trophies](https://github-profile-trophy.vercel.app/?username=fatma2006mamdouh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ## Random Dev Quote
 
 ![Random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
