@@ -55,6 +55,3 @@ I'm a student and frontend developer who enjoys turning ideas into clean, respon
 
 ![Random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-![Profile views](https://visitcount.itsvg.in/api?id=fatma2006mamdouh&icon=0&color=0)
