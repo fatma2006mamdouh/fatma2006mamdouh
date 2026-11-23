@@ -1,22 +1,22 @@
 <h1 align="center">Fatma Mamdouh Ali</h1>
 
 <p align="center">
-  CS Student . Front-End Web Developer · Competitive Programmer .
+  CS Student · Front-End Web Developer · Competitive Programmer
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fatma-mamdouh/">LinkedIn</a> ·
   <a href="https://codeforces.com/profile/fatma_csgirl">Codeforces</a> ·
- <a href="mailto:mamdouhfatma562@gmail.com">Email</a>
+  <code>mamdouhfatma562@gmail.com</code>
 </p>
 
 ---
 
 ### About
 
-* Competitive Programmer competing on `Codeforces`, `AtCoder`, and `LeetCode`.
-* Front-End Web Developer building responsive web applications, interactive UIs, and 3D visualizations with `React`, `JavaScript`, and `Three.js`.
-* Machine Learning practitioner experienced in data preprocessing, feature engineering, and classification modeling with `Python`, `Pandas`, `NumPy`, and `Scikit-Learn`
+- Competitive Programmer competing on `Codeforces`, `AtCoder`, and `LeetCode`.
+- Front-End Web Developer building responsive web applications, interactive UIs, and 3D visualizations with `React`, `JavaScript`, and `Three.js`.
+- Machine Learning practitioner experienced in data preprocessing, feature engineering, and classification modeling with `Python`, `Pandas`, `NumPy`, and `Scikit-Learn`.
 
 ### Tech
 
