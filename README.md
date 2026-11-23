@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/fatma-mamdouh/">LinkedIn</a> ·
   <a href="https://codeforces.com/profile/fatma_csgirl">Codeforces</a> ·
-  <code>mamdouhfatma562@gmail.com</code>
+  <a href="https://mail.google.com/mail/?view=cm&to=mamdouhfatma562@gmail.com">Email</a>
 </p>
 
 ---
