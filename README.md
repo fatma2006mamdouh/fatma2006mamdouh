@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/fatma-mamdouh">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/fatma-mamdouh/">LinkedIn</a> ·
   <a href="https://codeforces.com/profile/fatma_csgirl">Codeforces</a> ·
-  <a href="mailto:mamdouhfatma562@gmail.com">Email</a>
+  <a href="mamdouhfatma562@gmail.com">Email</a>
 </p>
 
 ---
