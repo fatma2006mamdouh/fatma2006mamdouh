@@ -1,30 +1,29 @@
 <h1 align="center">Fatma Mamdouh Ali</h1>
 
 <p align="center">
-  Front-End Web Developer · Competitive Programmer · Media Lead @ ICPC BSU Community
+  CS Student . Front-End Web Developer · Competitive Programmer .
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">LinkedIn</a> ·
-  <a href="https://codeforces.com/profile/fatma_mamdou7">Codeforces</a> ·
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="https://www.linkedin.com/fatma-mamdouh">LinkedIn</a> ·
+  <a href="https://codeforces.com/profile/fatma_csgirl">Codeforces</a> ·
+  <a href="mailto:mamdouhfatma562@gmail.com">Email</a>
 </p>
 
 ---
 
 ### About
 
-* Front-End Web Developer focused on building interactive, responsive web applications and 3D visualizations.
-* Competitive Programmer competing on Codeforces (`fatma_mamdou7`), AtCoder, and LeetCode, and ECPC 2026 Qualification participant with team *Dokhan mn 8er Kofta*.
-* Media Lead and Problem Setter for the ICPC BSU Community, creating visual learning platforms, contest problems, and community media.
-* B.Sc. student in Computer Science and Software Engineering, Beni-Suef University.
+* Competitive Programmer competing on `Codeforces`, `AtCoder`, and `LeetCode`.
+* Front-End Web Developer building responsive web applications, interactive UIs, and 3D visualizations with `React`, `JavaScript`, and `Three.js`.
+* Machine Learning practitioner experienced in data preprocessing, feature engineering, and classification modeling with `Python`, `Pandas`, `NumPy`, and `Scikit-Learn`
 
 ### Tech
 
-`C++` · `JavaScript` · `Python` · `SQL` · `React` · `Three.js` · `Tailwind CSS` · `Bootstrap` · `HTML5` · `CSS3` · `Git`
+`React` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS` · `Bootstrap` · `Three.js` · `Python` · `Scikit-Learn` · `Pandas` · `NumPy` · `SQL` · `C++` · `Git`
 
 ### Featured Project
 
-[Skytime](https://github.com/fatma_mamdou7/Skytime-Frontend)
+[Skytime](https://github.com/Omaar26/Skytime)
 
 A 3D celestial visualization web application developed for the NASA Space Apps Challenge, built with React, Vite, and Three.js/Canvas for interactive astronomical exploration.
