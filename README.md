@@ -20,7 +20,7 @@
 
 ### Tech
 
-`React` · `JavaScript` · `HTML5` · `CSS3` · `Bootstrap` · `Python` · `Scikit-Learn` · `Pandas` · `NumPy` · `SQL` · `C++` ·
+ `JavaScript` · `HTML5` · `CSS3` · `Bootstrap` · `Python` · `Scikit-Learn` · `Pandas` · `NumPy` · `C++` ·
 
 ### Featured Project
 
