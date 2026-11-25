@@ -15,7 +15,7 @@
 ### About
 
 - Competitive Programmer competing on `Codeforces`, `AtCoder`, and `LeetCode`.
-- Front-End Web Developer building responsive web applications, interactive UIs, and 3D visualizations with `React`, `JavaScript`, and `Three.js`.
+- Front-End Web Developer building responsive web applications, interactive UIs with `JavaScript`.
 - Machine Learning practitioner experienced in data preprocessing, feature engineering, and classification modeling with `Python`, `Pandas`, `NumPy`, and `Scikit-Learn`.
 
 ### Tech
